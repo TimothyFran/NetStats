@@ -1,3 +1,6 @@
+# 0.3.2
+- Added ARM64 support.
+
 # 0.3.1
 - Added unit selection in settings
 

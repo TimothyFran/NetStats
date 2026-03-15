@@ -1,15 +1,15 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
-    <TargetFramework>net9.0-windows10.0.22621</TargetFramework>
+    <TargetFramework>net10.0-windows10.0.22621</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
-    <Platforms>x64</Platforms>
+    <Platforms>AnyCPU</Platforms>
 
     <PackageId>NetStats</PackageId>
     <Title>NetStats</Title>
-    <Version>0.3.1</Version>
-    <AssemblyVersion>0.1.67.0</AssemblyVersion>
-    <FileVersion>0.1.67.0</FileVersion>
+    <Version>0.3.2</Version>
+    <AssemblyVersion>0.1.68.0</AssemblyVersion>
+    <FileVersion>0.1.68.0</FileVersion>
     <Description>An extension providing real-time network statistics.</Description>
     <Authors>Timothy Franceschi</Authors>
     <PackageProjectUrl>https://github.com/TimothyFran/NetStats</PackageProjectUrl>
@@ -25,7 +25,7 @@
     <None Include="Assets/netstats.png" Pack="true" PackagePath="\Assets\" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="WindowSill.API" Version="0.8.0" />
+    <PackageReference Include="WindowSill.API" Version="0.9.20" />
   </ItemGroup>
   <PropertyGroup>
     <PackageLicenseFile>LICENSE.md</PackageLicenseFile>

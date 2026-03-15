@@ -7,14 +7,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetStats", "NetStats.csproj
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|x64 = Debug|x64
-		Release|x64 = Release|x64
+		Debug|AnyCPU = Debug|AnyCPU
+		Release|AnyCPU = Release|AnyCPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{6578A45D-5E53-C8FE-CA44-954D0F79C0EB}.Debug|x64.ActiveCfg = Debug|x64
-		{6578A45D-5E53-C8FE-CA44-954D0F79C0EB}.Debug|x64.Build.0 = Debug|x64
-		{6578A45D-5E53-C8FE-CA44-954D0F79C0EB}.Release|x64.ActiveCfg = Release|x64
-		{6578A45D-5E53-C8FE-CA44-954D0F79C0EB}.Release|x64.Build.0 = Release|x64
+		{6578A45D-5E53-C8FE-CA44-954D0F79C0EB}.Debug|AnyCPU.ActiveCfg = Debug|AnyCPU
+		{6578A45D-5E53-C8FE-CA44-954D0F79C0EB}.Debug|AnyCPU.Build.0 = Debug|AnyCPU
+		{6578A45D-5E53-C8FE-CA44-954D0F79C0EB}.Release|AnyCPU.ActiveCfg = Release|AnyCPU
+		{6578A45D-5E53-C8FE-CA44-954D0F79C0EB}.Release|AnyCPU.Build.0 = Release|AnyCPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
